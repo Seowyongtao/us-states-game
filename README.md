@@ -1,6 +1,6 @@
-# us-states-game
+# US States Guessing Game
 
-How To Use This
+Description
 ---------------
 
-1. Run `python main.py`
+A simple game that allows user to guess the US states' names.
